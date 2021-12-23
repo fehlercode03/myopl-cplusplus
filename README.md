@@ -6,8 +6,8 @@ Note - the version is in the form `episode.minutes.seconds` (seconds approximate
 on the YouTube playlist
 
 A translation of David Callanan/[CodePulse](https://www.youtube.com/c/CodePulse/)'s
-project and YouTube Series [Make YOUR OWN Programming Language in Python]
-(https://www.youtube.com/playlist?list=PLZQftyCk7_SdoVexSmwy_tBgs7P0b97yD) into C++.
+project and YouTube Series
+[Make YOUR OWN Programming Language in Python](https://www.youtube.com/playlist?list=PLZQftyCk7_SdoVexSmwy_tBgs7P0b97yD) into C++.
 The Python code is at https://github.com/davidcallanan/py-myopl-code
 
 Thanks to the `{fmt}` library for string formatting
