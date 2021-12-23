@@ -61,5 +61,3 @@ To extract the `.tar.xz` file - `$ tar xJvf myopl.tar.xz`
 --
 * https://github.com/fmtlib/fmt
 * https://fmt.dev/latest/index.html
-
-[b](javascript:alert(1))
