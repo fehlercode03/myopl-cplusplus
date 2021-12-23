@@ -1,0 +1,1 @@
+token.cpp includes utils.hpp includes token.hpp -> error: redefinition of 'class Token'
