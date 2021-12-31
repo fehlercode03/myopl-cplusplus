@@ -1,2 +1,2 @@
 language = "nix"
-run = "make"
+run = "make CXXFLAGS=-DHAVE_SYS_FMT LDFLAGS=-lfmt && ./run/myopl"
