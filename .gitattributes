@@ -8,6 +8,7 @@
 *.h     text diff=cpp linguist-language=cpp 
 *.h++   text diff=cpp
 *.hh    text diff=cpp
+*fmt*   linguist-vendored
 
 # Compiled Object files
 *.slo   binary
